@@ -4,7 +4,7 @@ A fun and interactive **Rock Paper Scissors** game built using **HTML, CSS, and 
 
 ## 🚀 Live Demo
 
-🌐 https://YOUR_GITHUB_PAGES_LINK
+🌐 https://aakritijaiswal-collab.github.io/RockPaperScissors-React/
 
 ## 📂 GitHub Repository
 
