@@ -60,7 +60,7 @@ Contributions, suggestions, and improvements are always welcome!
 **Aakriti Jaiswal**
 
 - GitHub: https://github.com/aakritijaiswal-collab
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn:https://www.linkedin.com/in/aakriti-jaiswal-206a1631b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
