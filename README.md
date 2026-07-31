@@ -50,8 +50,6 @@ Rock-Paper-Scissors/
 - Responsive Web Design
 - Interactive UI Development
 
-<img width="1920" height="932" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/78e46f15-7d47-491a-9c50-ccc5578f80a7" />
-
 
 ## 🤝 Contributing
 
